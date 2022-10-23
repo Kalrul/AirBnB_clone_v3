@@ -1,0 +1,1 @@
+This is the 3rd version of our AirBnB clone project. We will be using a REST API and Flask
